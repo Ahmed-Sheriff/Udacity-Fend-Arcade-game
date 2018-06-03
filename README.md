@@ -2,6 +2,8 @@
 
 - click on the link of the game , it will take you directly to the game 
 
+ https://ahmed-sheriff.github.io/Udacity-Fend-Arcade-game/.
+
 2- How to play 
 
 - You have to move the player to the water to win 
